@@ -17,20 +17,12 @@ We run it like this because this program takes command line argument for the num
 You have 6 attempts to get the correct answer.
 We give color hints so you know what letters are in the word either in the correct position or not, and the words that are not in the word at all.
 
-<font color="green">Green background on the letter means the letter is in the word and in the correct position</font>
-<font color="yellow"Green background on the letter means the letter is in the word but in the incorrect position</font>
-<font color="red"Red background on the letter means the letter is not in the word</font>
 
-<span style="color:green">Your text goes here</span>
-<span style="color:green">Your text goes here</span>
-<span style="color:green">Your text goes here</span>
+`#0969DA`Green background on the letter means the letter is in the word and in the correct position</font>
+Green background on the letter means the letter is in the word but in the incorrect position</font>
+Red background on the letter means the letter is not in the word</font>
 
-$${\color{green}Red}$$
-$${\color{yellow}Red}$$
-$${\color{red}Red}$$
 
-- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
-  
 Example:
 
 ![image](https://github.com/lndmri/Wordle-C/assets/69853165/5ba4b899-3e79-4730-bf42-704731bc2bc4)
