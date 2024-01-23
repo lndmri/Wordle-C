@@ -29,6 +29,8 @@ $${\color{green}Red}$$
 $${\color{yellow}Red}$$
 $${\color{red}Red}$$
 
+- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
+  
 Example:
 
 ![image](https://github.com/lndmri/Wordle-C/assets/69853165/5ba4b899-3e79-4730-bf42-704731bc2bc4)
