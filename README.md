@@ -25,6 +25,10 @@ We give color hints so you know what letters are in the word either in the corre
 <span style="color:green">Your text goes here</span>
 <span style="color:green">Your text goes here</span>
 
+$${\color{green}Red}$$
+$${\color{yellow}Red}$$
+$${\color{red}Red}$$
+
 Example:
 
 ![image](https://github.com/lndmri/Wordle-C/assets/69853165/5ba4b899-3e79-4730-bf42-704731bc2bc4)
@@ -33,7 +37,8 @@ Example:
 
 # Language:
 C
+This code uses CS0 library from the CS50 course
 
-Enjoy Wordle!!!
+#Enjoy Wordle!!!
 
 
