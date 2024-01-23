@@ -17,10 +17,11 @@ You can run:
 - You have 6 attempts to get the correct answer.
 - We give color hints so you know what letters are in the word either in the correct position or not, and the words that are not in the word at all.
 
-* ![#6cc644](https://placehold.co/15x15/f03c15/f03c15.png) `#Green background on the letter means the letter is in the word and in the correct position`
-* ![#ffd54f](https://placehold.co/15x15/c5f015/c5f015.png) `#Yellow background on the letter means the letter is in the word but in the incorrect position`
-* ![#EA7237](https://placehold.co/15x15/1589F0/1589F0.png) `#Red background on the letter means the letter is not in the word`
+* 🟩#Green background on the letter means the letter is in the word and in the correct position`
+* 🟨 #Yellow background on the letter means the letter is in the word but in the incorrect position`
+* 🟥 #Red background on the letter means the letter is not in the word`
 
+🟥
 Example:
 
 ![image](https://github.com/lndmri/Wordle-C/assets/69853165/5ba4b899-3e79-4730-bf42-704731bc2bc4)
