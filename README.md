@@ -17,9 +17,9 @@ You can run:
 -You have 6 attempts to get the correct answer.
 -We give color hints so you know what letters are in the word either in the correct position or not, and the words that are not in the word at all.
 
-* ![#00FF00](https://placehold.co/15x15/f03c15/f03c15.png) `#Green background on the letter means the letter is in the word and in the correct position`
-* ![#00FFFF](https://placehold.co/15x15/c5f015/c5f015.png) `#Yellow background on the letter means the letter is in the word but in the incorrect position`
-* ![#FF0000](https://placehold.co/15x15/1589F0/1589F0.png) `#Red background on the letter means the letter is not in the word`
+* ![#6cc644](https://placehold.co/15x15/f03c15/f03c15.png) `#Green background on the letter means the letter is in the word and in the correct position`
+* ![#ffd54f](https://placehold.co/15x15/c5f015/c5f015.png) `#Yellow background on the letter means the letter is in the word but in the incorrect position`
+* ![#EA7237](https://placehold.co/15x15/1589F0/1589F0.png) `#Red background on the letter means the letter is not in the word`
 
 Example:
 
@@ -27,10 +27,10 @@ Example:
 
 ![image](https://github.com/lndmri/Wordle-C/assets/69853165/c698f744-e996-44a4-bf0e-d89800df047e)
 
-# Language:
-C
-This code uses CS0 library from the CS50 course
+# Languages:
+-C
+-This code uses CS0 library from the CS50 course
 
-#Enjoy Wordle!!!
+# Enjoy Wordle!!!
 
 
