@@ -21,6 +21,10 @@ We give color hints so you know what letters are in the word either in the corre
 <font color="yellow"Green background on the letter means the letter is in the word but in the incorrect position</font>
 <font color="red"Red background on the letter means the letter is not in the word</font>
 
+<span style="color:green">Your text goes here</span>
+<span style="color:green">Your text goes here</span>
+<span style="color:green">Your text goes here</span>
+
 Example:
 
 ![image](https://github.com/lndmri/Wordle-C/assets/69853165/5ba4b899-3e79-4730-bf42-704731bc2bc4)
