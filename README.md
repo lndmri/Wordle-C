@@ -1,5 +1,5 @@
 # Wordle-C
-This project implements a fun wordle game!
+This project implements a fun wordle game! See if you can guess the word.
 
 # Usage
 - This code is supposed to be ran from the terminal. Having the terminal open on this folder run ".\wordle.exe 5" or recompile it using "gcc -o  wordle wordle.c cs50.c" and then run ".\wordle.exe 5"
