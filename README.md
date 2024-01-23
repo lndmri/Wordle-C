@@ -21,7 +21,6 @@ You can run:
 * 🟨 #Yellow background on the letter means the letter is in the word but in the incorrect position`
 * 🟥 #Red background on the letter means the letter is not in the word`
 
-🟥
 Example:
 
 ![image](https://github.com/lndmri/Wordle-C/assets/69853165/5ba4b899-3e79-4730-bf42-704731bc2bc4)
