@@ -28,8 +28,8 @@ Example:
 ![image](https://github.com/lndmri/Wordle-C/assets/69853165/c698f744-e996-44a4-bf0e-d89800df047e)
 
 # Languages:
--C
--This code uses CS0 library from the CS50 course
+- C
+- This code uses CS0 library from the CS50 course 
 
 # Enjoy Wordle!!!
 
